@@ -50,4 +50,4 @@ app1.get('/name/check', async (req, res) => {
 });
 
 
-app.listen(3000);
+app1.listen(3000);
